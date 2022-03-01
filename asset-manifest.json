@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/azqservices/static/js/main.fa5cf139.js",
+    "static/media/scrapyard.jpg": "/azqservices/static/media/scrapyard.a6469fee5b7b79bfb181.jpg",
+    "static/media/copper.png": "/azqservices/static/media/copper.ed88ec2ed176da0cf996.png",
+    "static/media/metal.png": "/azqservices/static/media/metal.64f0c99e30fbd915a13f.png",
+    "static/media/contact2.jpg": "/azqservices/static/media/contact2.bbc41ccb5030bc0f7f34.jpg",
+    "static/media/workshop.png": "/azqservices/static/media/workshop.295fc93b1e88cdb577a1.png",
+    "static/media/silver.png": "/azqservices/static/media/silver.6dd00bfbf8ef6ff82c38.png",
+    "static/media/zink.png": "/azqservices/static/media/zink.011355dd9517c9604992.png",
+    "static/media/cleaning1.svg": "/azqservices/static/media/cleaning1.d91474315c1338477b0cd4f8c5c5a52f.svg",
+    "static/media/clean.jpg": "/azqservices/static/media/clean.0ed6eb12c199293de6ab.jpg",
+    "static/media/school.svg": "/azqservices/static/media/school.dd9ff1fd94d9db87ca66cb345acbfa00.svg",
+    "static/media/aluminum.png": "/azqservices/static/media/aluminum.6c6ca3a9192cedefe1d9.png",
+    "static/media/office.png": "/azqservices/static/media/office.f94ebe51c3cf46e55395.png",
+    "static/media/office.svg": "/azqservices/static/media/office.b06691e22512fa4a304650d7b33ee69c.svg",
+    "static/media/logo.svg": "/azqservices/static/media/logo.973256046aeb02d0399fa34eab60fc16.svg",
+    "static/media/scrap5.svg": "/azqservices/static/media/scrap5.a7539363379bab291baeb68445922f77.svg",
+    "static/media/town.svg": "/azqservices/static/media/town.7e09c4b60abe7f293bee4d2d5464443c.svg",
+    "static/media/commitment.svg": "/azqservices/static/media/commitment.6b6394ead6a99afd4aeba97133c61b04.svg",
+    "static/media/quality.svg": "/azqservices/static/media/quality.e16853d9f0c69c0ce6daea77f4ca4b72.svg",
+    "index.html": "/azqservices/index.html",
+    "main.fa5cf139.js.map": "/azqservices/static/js/main.fa5cf139.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa5cf139.js"
+  ]
+}
